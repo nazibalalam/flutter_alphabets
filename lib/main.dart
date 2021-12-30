@@ -45,9 +45,10 @@ class MyApp extends StatelessWidget {
       title: "Flutter Alphabets",
       debugShowCheckedModeBanner: false,
       home: Scaffold(
-        body: SizedBox(
+        body: Container(
           height: double.infinity,
           width: double.infinity,
+          padding: const EdgeInsets.all(8.0),
           child: Column(
             mainAxisAlignment: MainAxisAlignment.start,
             children: [
