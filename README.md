@@ -1,16 +1,7 @@
-# flutter_alphabets
+# Flutter Alphabets
 
-A new Flutter project.
+An App that displays all the English alphabets (plus some more features)
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_2021-12-30-01-37-46_1366x768](https://user-images.githubusercontent.com/69672332/147731224-75e1b974-1e96-4128-85d3-c7fd689bc0ab.png)
